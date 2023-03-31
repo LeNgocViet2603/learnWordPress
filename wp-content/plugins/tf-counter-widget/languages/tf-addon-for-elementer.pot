@@ -1,0 +1,235 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tf Counter Widgets Addon For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-07 08:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: widgets/tf-counter.php:228
+msgid " Icon Position"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: tf-counter-widget.php:91
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: tf-counter-widget.php:115 tf-counter-widget.php:140
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/tf-counter.php:132
+msgid "Alignment"
+msgstr ""
+
+#: widgets/tf-counter.php:255
+msgid "Background"
+msgstr ""
+
+#: widgets/tf-counter.php:298
+msgid "Border"
+msgstr ""
+
+#: widgets/tf-counter.php:306 widgets/tf-counter.php:560
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/tf-counter.php:289 widgets/tf-counter.php:573
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/tf-counter.php:141
+msgid "Center"
+msgstr ""
+
+#: widgets/tf-counter.php:81
+msgid "Content"
+msgstr ""
+
+#: widgets/tf-counter.php:212
+msgid "Counter Images"
+msgstr ""
+
+#: tf-counter-widget.php:93 tf-counter-widget.php:117
+msgid "Elementor"
+msgstr ""
+
+#: widgets/tf-counter.php:90
+msgid "Ending Number"
+msgstr ""
+
+#: widgets/tf-counter.php:246
+msgid "General"
+msgstr ""
+
+#: widgets/tf-counter.php:416
+msgid "H1"
+msgstr ""
+
+#: widgets/tf-counter.php:417
+msgid "H2"
+msgstr ""
+
+#: widgets/tf-counter.php:418
+msgid "H3"
+msgstr ""
+
+#: widgets/tf-counter.php:419
+msgid "H4"
+msgstr ""
+
+#: widgets/tf-counter.php:420
+msgid "H5"
+msgstr ""
+
+#: widgets/tf-counter.php:421
+msgid "H6"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/themesflat"
+msgstr ""
+
+#: widgets/tf-counter.php:162 widgets/tf-counter.php:172
+#: widgets/tf-counter.php:180 widgets/tf-counter.php:196
+msgid "Icon"
+msgstr ""
+
+#: widgets/tf-counter.php:493
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/tf-counter.php:478
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/tf-counter.php:507
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/tf-counter.php:469
+msgid "Icon Style"
+msgstr ""
+
+#: widgets/tf-counter.php:184
+msgid "Image"
+msgstr ""
+
+#: widgets/tf-counter.php:137 widgets/tf-counter.php:233
+msgid "Left"
+msgstr ""
+
+#: widgets/tf-counter.php:276 widgets/tf-counter.php:392
+#: widgets/tf-counter.php:452 widgets/tf-counter.php:548
+msgid "Margin"
+msgstr ""
+
+#: widgets/tf-counter.php:176
+msgid "None"
+msgstr ""
+
+#: widgets/tf-counter.php:322
+msgid "Number & Title"
+msgstr ""
+
+#: widgets/tf-counter.php:351
+msgid "Number Color"
+msgstr ""
+
+#: widgets/tf-counter.php:331
+msgid "Number Style"
+msgstr ""
+
+#: widgets/tf-counter.php:264 widgets/tf-counter.php:530
+msgid "Padding"
+msgstr ""
+
+#: tf-counter-widget.php:142
+msgid "PHP"
+msgstr ""
+
+#: widgets/tf-counter.php:101 widgets/tf-counter.php:103
+msgid "Prefix"
+msgstr ""
+
+#: widgets/tf-counter.php:365
+msgid "Prefix Color"
+msgstr ""
+
+#: widgets/tf-counter.php:145 widgets/tf-counter.php:234
+msgid "Right"
+msgstr ""
+
+#: widgets/tf-counter.php:353
+msgid "Set color for number"
+msgstr ""
+
+#: widgets/tf-counter.php:367
+msgid "Set color for prefix"
+msgstr ""
+
+#: widgets/tf-counter.php:381
+msgid "Set color for suffix"
+msgstr ""
+
+#: widgets/tf-counter.php:111 widgets/tf-counter.php:113
+msgid "Suffix"
+msgstr ""
+
+#: widgets/tf-counter.php:379
+msgid "Suffix Color"
+msgstr ""
+
+#: tf-counter-widget.php:92 tf-counter-widget.php:116 tf-counter-widget.php:141
+msgid "Tf Counter"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tf Counter Addon For Elementor."
+msgstr ""
+
+#. Name of the plugin
+msgid "Tf Counter Widgets Addon For Elementor"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themesflat"
+msgstr ""
+
+#: widgets/tf-counter.php:121 widgets/tf-counter.php:123
+msgid "Title"
+msgstr ""
+
+#: widgets/tf-counter.php:440
+msgid "Title Color"
+msgstr ""
+
+#: widgets/tf-counter.php:404
+msgid "Title Style"
+msgstr ""
+
+#: widgets/tf-counter.php:412
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/tf-counter.php:232
+msgid "Top"
+msgstr ""
+
+#: widgets/tf-counter.php:341 widgets/tf-counter.php:430
+msgid "Typography"
+msgstr ""
